@@ -1,0 +1,9 @@
+name: iOS-faceID
+dependencies:
+  - python==3.8.5
+  - pip:
+    - numpy
+    - opencv-contrib-python
+    - Pillow
+    - pypng
+    - open3d

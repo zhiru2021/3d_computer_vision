@@ -1,0 +1,6 @@
+ kCVPixelFormatType_DepthFloat32
+Depth image size:640 480
+
+cameraCalibrationDataintrinsicMatrix: [2748.01 0.00 2016.61 | 0.00 2748.01 1513.30 | 0.00 0.00 1.00], extrinsicMatrix: [1.00 0.00 0.00 0.00 | 0.00 1.00 0.00 0.00 | 0.00 0.00 1.00 0.00] pixelSize:0.001 mm, distortionCenter:{2016.61,1513.30}, ref:{4032x3024}
+intrinsicMatrixsimd_float3x3([[2748.0083, 0.0, 0.0], [0.0, 2748.0083, 0.0], [2016.6061, 1513.2954, 1.0]])
+intrinsicMatrixReferenceDimensions(4032.0, 3024.0)
